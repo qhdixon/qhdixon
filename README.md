@@ -5,4 +5,4 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/qhdixon/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/qhdixon/post-installation-)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/qhdixon/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/qhdixon/Ticket-Lifestyle-Examples.git)
